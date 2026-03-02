@@ -1,7 +1,7 @@
 
 ## Features:
 
-- This project is an end-to-end audio classification system built with a deep ResNet-style CNN that converts audio into Mel Spectrograms for image-based sound recognition. It features advanced training techniques like Mixup augmentation, Frequency Masking, AdamW optimization, and OneCycleLR scheduling, all backed by TensorBoard for performance monitoring. The trained model is deployed as a serverless GPU-powered FastAPI endpoint via Modal with a sleek Next.js dashboard built using Tailwind CSS and Shadcn UI offering real-time classification, confidence scores, waveform and spectrogram visualization, and CNN feature map inspection.
+This project is an end-to-end audio classification system built with a deep ResNet-style CNN that converts audio into Mel Spectrograms for image-based sound recognition. It features advanced training techniques like Mixup augmentation, Frequency Masking, AdamW optimization, and OneCycleLR scheduling, all backed by TensorBoard for performance monitoring. The trained model is deployed as a serverless GPU-powered FastAPI endpoint via Modal with a sleek Next.js dashboard built using Tailwind CSS and Shadcn UI offering real-time classification, confidence scores, waveform and spectrogram visualization, and CNN feature map inspection.
 
 ## Setup
 
