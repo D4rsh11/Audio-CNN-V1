@@ -1,6 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 pandas
-torchaudio
-torch
+torch==2.2.2+cpu
+torchaudio==2.2.2+cpu
 tqdm
 numpy
 tensorboard

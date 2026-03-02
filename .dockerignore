@@ -1,0 +1,9 @@
+node_modules
+.next
+venv
+.git
+__pycache__
+*.pyc
+*.wav
+audio-cnn-visualisation/node_modules
+audio-cnn-visualisation/.next
